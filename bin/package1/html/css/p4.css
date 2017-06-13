@@ -1,0 +1,19 @@
+.leavelist .media
+{
+    width: 300px;
+    margin-right: -200px;
+}
+.mannageuser{
+    display: none;
+}
+#mannageuser{
+    cursor: pointer;
+}
+#mannagemessage{
+    cursor: pointer;
+}
+.delectmessage
+{
+    position: relative;
+    left: 400px;
+}
